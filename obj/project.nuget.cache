@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QjRQu8LWLB2DLFJi98snC2SZeLOzejf4nMmWdXJgRRdB1Iy/ea3pRya1vOzGeydUNyG2OGYsWdZIVjamVeyzGg==",
+  "success": true,
+  "projectFilePath": "/home/souenzzo/src/helloNet/helloNet.csproj",
+  "expectedPackageFiles": [
+    "/home/souenzzo/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.1/microsoft.aspnetcore.app.ref.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
